@@ -17,6 +17,11 @@
       <li><a href="http://vue-loader.vuejs.org/" target="_blank">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank">awesome-vue</a></li>
     </ul>
+    <md-button class="md-raised">Default</md-button>
+    <md-button class="md-raised md-warn">Warn</md-button>
+    <md-button class="md-icon-button md-primary">
+      <md-icon>more_vert</md-icon>
+    </md-button>
   </div>
 </template>
 
